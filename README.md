@@ -7,3 +7,7 @@ TODO
 https://www.youtube.com/watch?v=w9DfC2BHGPA
 
 https://www.youtube.com/watch?v=2tK0txsNd6U
+
+
+**Obsidian.md를 이용하여 수정함.**
+- 내용
